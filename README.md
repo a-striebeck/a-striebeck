@@ -2,13 +2,11 @@
 
 I'm a father, an Age of Empires player (although not a good one), and a Systems Analysis Student.
 
-I'm currently working as a Customer Service Representative for a company that outsources these services.
+I'm currently working as a Customer Service Representative for a company that outsources these kind of services.
 
-Furthermore, I'm currently learning Python, and C++ at the institute, and trying to study the .NET environment on my own in my free time (which is not that much).
+Currently, I'm learning Python, and C++ at the institute, and trying to study the .NET environment on my own in my free time (which is not that much).
 
 If you wish to contact me, you can reach me out at agustinstriebeck.it@gmail.com
-
-Thanks for passing by, and have a lovely rest of your day.
 
 
 <!--
